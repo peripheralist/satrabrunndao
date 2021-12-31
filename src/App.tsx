@@ -11,7 +11,7 @@ function App() {
         >
           <img
             style={{ maxWidth: 80, maxHeight: 80, marginRight: 20 }}
-            src={"/assets/satraBrunnDAO_icon.jpeg"}
+            src={"/assets/satrabrunndao_logo.png"}
             alt="Sätra Brunn DAO logo"
           />
           <h1>Sätra Brunn DAO</h1>
